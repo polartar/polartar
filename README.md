@@ -3,7 +3,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?&username=talentdev2020&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev2020&layout=compact&hide=css,html,php&langs_count=6)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev2020&layout=compact&hide=css,html,php&langs_count=5)
 
 <!--
 **talentdev2020/talentdev2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

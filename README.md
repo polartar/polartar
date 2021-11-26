@@ -1,7 +1,7 @@
 ### Hey there! �
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=talentdev2020&theme=algolia&&hide=html&show_icons=true&langs_count=6&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=talentdev2020&theme=algolia&hide=html&show_icons=true&langs_count=6&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev2020&layout=compact)
 

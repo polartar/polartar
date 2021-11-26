@@ -1,12 +1,12 @@
 ### Hey there! �
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=stardandev&theme=algolia&&hide=html&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=talentdev2020&theme=algolia&&hide=html&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=stardandev&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev2020&layout=compact)
 
 <!--
-**stardandev/stardandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**talentdev2020/talentdev2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
